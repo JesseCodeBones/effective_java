@@ -1,0 +1,9 @@
+
+*.iml
+1equals_hashcode/target/classes/Test.class
+1equals_hashcode/target/classes/Point.class
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml
